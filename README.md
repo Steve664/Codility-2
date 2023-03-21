@@ -5,9 +5,9 @@
 
 ## BDD (Behavior Driven Development)
 
-Given: A string s
-When: The camelcase methodd is used on the string
-Then: Return the string with no spaces and in camelcase
+<p>Given: A string s</p>
+<p>When: The camelcase methodd is used on the string</p>
+<p>Then: Return the string with no spaces and in camelcase</p>
 
 ### Example1
 camel case word'.camelcase => CamelCaseWord
